@@ -8,4 +8,4 @@ The fundamentals of imaging methods span a broad range of disciplines, requiring
 Total and BP.
 
 # Contact
-Website: [blogs.ed.ac.uk/imaging](blogs.ed.ac.uk/imaging)
+Website: [blogs.ed.ac.uk/imaging](http://blogs.ed.ac.uk/imaging)
