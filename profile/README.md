@@ -1,6 +1,6 @@
 # Welcome to the EIP GitHub page! ✨
 
-![EIP Logo](../figures/EIPlogo.jpg)
+![EIP Logo](.github/figures/EIPlogo.jpg)
 
 The Edinburgh Imaging Project (EIP) explores the exciting fields of imaging and monitoring of the Earth’s subsurface, principally for applications within industry. EIP often uses methods from inverse theory, migration, tomography and data science.
 
